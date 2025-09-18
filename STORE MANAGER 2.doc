@@ -1,0 +1,217 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Cambria;}{\f1\fswiss\fprq2\fcharset0 Calibri;}{\f2\fnil\fcharset0 Cooper Black;}{\f3\fswiss\fprq2\fcharset0 Arial;}{\f4\fnil\fcharset1 Segoe UI Symbol;}{\f5\fnil\fcharset0 Calibri;}{\f6\fnil\fcharset2 Symbol;}}
+{\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+{\*\listtable 
+{\list\listhybrid
+{\listlevel\levelnfc23\leveljc0\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f6\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc0\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f6\jclisttab\tx0}\listid1 }
+{\list\listhybrid
+{\listlevel\levelnfc23\leveljc0\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f6\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc0\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f6\jclisttab\tx0}\listid2 }
+{\list\listhybrid
+{\listlevel\levelnfc0\leveljc0\levelstartat1{\leveltext\'02\'00.;}{\levelnumbers\'01;}\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc0\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f6\jclisttab\tx0}\listid3 }
+{\list\listhybrid
+{\listlevel\levelnfc0\leveljc0\levelstartat1{\leveltext\'02\'00.;}{\levelnumbers\'01;}\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc0\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f6\jclisttab\tx0}\listid4 }
+{\list\listhybrid
+{\listlevel\levelnfc0\leveljc0\levelstartat1{\leveltext\'02\'00.;}{\levelnumbers\'01;}\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc0\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f6\jclisttab\tx0}\listid5 }
+{\list\listhybrid
+{\listlevel\levelnfc0\leveljc0\levelstartat1{\leveltext\'02\'00.;}{\levelnumbers\'01;}\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc0\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f6\jclisttab\tx0}\listid6 }
+{\list\listhybrid
+{\listlevel\levelnfc23\leveljc0\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f6\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc0\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f6\jclisttab\tx0}\listid7 }}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}{\listoverride\listid7\listoverridecount0\ls7}}
+{\stylesheet{ Normal;}{\s1 heading 1;}}
+{\*\generator Riched20 10.0.22621}\viewkind4\uc1 
+\pard\widctlpar\li2348\sl252\slmult1\cf1\kerning2\b\f0\fs41\lang16393 Project Documentation\b0\f1\fs22  \par
+
+\pard\widctlpar\li86\sa1019\sl252\slmult1\qc\f2\fs29 STORE MANAGER KEEP TRACK OF INVENTORY PROJECT\f1\fs22\par
+
+\pard\keep\keepn\widctlpar\s1\li-15\sa185\sl252\slmult1\tqc\tx1422\b\f0\fs29 1.\f3  \tab\f0 Introduction \par
+
+\pard 
+{\listtext\f1\u10625?\tab}\ls1\fi-233\li233\sa239\sl252\slmult1\fs24 Project Title:\b0\f1\fs22  Store Manager\par
+
+\pard 
+{\listtext\f1\u10625?\tab}\ls1\fi-233\li233\sa237\sl252\slmult1\b\f0\fs24 Team ID\b0\f1\fs22  :NM2025TMID34837\par
+
+\pard 
+{\listtext\f1\u10625?\tab}\ls1\fi-233\li233\sa230\sl264\slmult1\b\f0\fs24 Team Leader:\b0\f1\fs22\par
+{\listtext\f1 1\tab}\b\f0\fs24      SANJAYKUMAR.S - 24ucs552@avasctnj.edu.in\b0\f1\fs22\par
+
+\pard 
+{\listtext\f1\u10625?\tab}\ls1\fi-233\li233\sa210\sl252\slmult1\b\f0\fs24 Team Members:\b0\f1\fs22  \par
+
+\pard 
+{\listtext\f1\u10625?\tab}\ls1\ilvl1\fi-254\li765\sa123\sl264\slmult1  SURYA.M  - 24ucs562@avasctnj.edu.in\par
+{\listtext\f1 1\tab} THIRIVIKRAMAN.S - 24ucs564@avasctnj.edu.in\par
+
+\pard 
+{\listtext\f1\u10625?\tab}\ls1\ilvl1\fi-254\li765\sa520\sl264\slmult1  SAKTHINATHAN.G -24ucs550@avasctnj.edu.in\par
+
+\pard\keep\keepn\widctlpar\s1\li-15\sa185\sl252\slmult1\tqc\tx1715\b\f0\fs29 2.\f3  \tab\f0 Project Overview \par
+
+\pard 
+{\listtext\f1\u10625?\tab}\ls2\fi-233\li233\sa230\sl264\slmult1\fs24 Purpose: \b0 The store manager system is designed to simplify and automate store operations,including inventory control,billing,customer management,and reporting\f1\fs22\par
+
+\pard 
+{\listtext\f1\u10625?\tab}\ls2\fi-233\li233\sa210\sl252\slmult1\b\f0\fs24 Features:\b0\f1\fs22  \par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls2\ilvl1\fi-254\li765\sa123\sl264\slmult1\f0\fs24 Product stock management\par
+
+\pard\widctlpar\sa123\sl264\slmult1\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls3\ilvl1\fi-254\li765\sa123\sl264\slmult1 Sales and billing system\par
+
+\pard\widctlpar\sa123\sl264\slmult1\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls4\ilvl1\fi-254\li765\sa123\sl264\slmult1 Customer management\par
+
+\pard\widctlpar\sa123\sl264\slmult1\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl1\fi-254\li765\sa123\sl264\slmult1 Report generation\par
+
+\pard\widctlpar\sa123\sl264\slmult1\par
+
+\pard 
+{\listtext\f1\u10625?\tab}\ls6\ilvl1\fi-254\li765\sa123\sl264\slmult1 Admin control panel\f1\fs22\par
+
+\pard\keep\keepn\widctlpar\s1\li-15\sa185\sl252\slmult1\tqc\tx1412\b\f0\fs29 3.\f3  \tab\f0 Architecture \par
+
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlblt\pnf6\pnindent0{\pntxtb\'B7}}\fi-233\li233\sa254\sl264\slmult1\fs24 Frontend: \b0 ReactJS with Bootstrap\f1\fs22\par
+{\pntext\f6\'B7\tab}\b\f0\fs24 Backend: \b0  Node.js + Express.js (REST APIs)\f1\fs22  \par
+
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlblt\pnf6\pnindent0{\pntxtb\'B7}}\fi-233\li233\sa287\sl264\slmult1\b\f0\fs24 Database: \b0  MongoDB (for storing product, sales, and customer details)\f1\fs22  \par
+
+\pard\keep\keepn\widctlpar\s1\li-15\sa185\sl252\slmult1\tqc\tx1799\b\f0\fs29 4.\f3  \tab\f0 Setup Instructions \par
+
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlblt\pnf6\pnindent0{\pntxtb\'B7}}\fi-233\li233\sa210\sl252\slmult1\fs24 Prerequisites:\b0\f1\fs22  \par
+{\pntext\f6\'B7\tab}\par
+{\pntext\f6\'B7\tab}Node.js\par
+{\pntext\f6\'B7\tab}\par
+{\pntext\f6\'B7\tab}MongoDB\par
+{\pntext\f6\'B7\tab}\par
+{\pntext\f6\'B7\tab}Git\par
+{\pntext\f6\'B7\tab}\par
+{\pntext\f6\'B7\tab}Visual Studio Code\par
+
+\pard\widctlpar\sa83\sl264\slmult1\par
+
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlblt\pnf6\pnindent0{\pntxtb\'B7}}\fi-233\li233\sa160\sl252\slmult1\b\f0\fs24 Installation Steps:\b0\f1\fs22  \par
+{\pntext\f6\'B7\tab}# Clone repository\par
+{\pntext\f6\'B7\tab}git clone <repository-url>  \par
+{\pntext\f6\'B7\tab}\par
+{\pntext\f6\'B7\tab}# Install server dependencies\par
+{\pntext\f6\'B7\tab}cd server  \par
+{\pntext\f6\'B7\tab}npm install  \par
+{\pntext\f6\'B7\tab}\par
+{\pntext\f6\'B7\tab}# Install client dependencies\par
+{\pntext\f6\'B7\tab}cd client  \par
+{\pntext\f6\'B7\tab}npm install\par
+
+\pard\keep\keepn\widctlpar\s1\li-15\sa133\sl252\slmult1\tqc\tx1667\b\f0\fs29 5.\f3  \tab\f0 Folder Structure \par
+
+\pard\widctlpar\fi-10\li9\sl252\slmult1\b0\f1\fs24 store-manager/\par
+\f4\u9474?\u9472?\u9472?\f0  client/       # frontend\par
+\f4\u9474?\f0    \f4\u9492?\u9472?\u9472?\f0  src/\par
+\f4\u9474?\f0        \f4\u9492?\u9472?\u9472?\f0  components/\par
+\f4\u9474?\f0        \f4\u9492?\u9472?\u9472?\f0  pages/\par
+\f4\u9474?\u9472?\u9472?\f0  server/       # backend\par
+\f4\u9474?\f0    \f4\u9492?\u9472?\u9472?\f0  models/\par
+\f4\u9474?\f0    \f4\u9492?\u9472?\u9472?\f0  routes/\par
+\f4\u9474?\f0    \f4\u9492?\u9472?\u9472?\f0  controllers/\f1\fs22\par
+
+\pard\keep\keepn\widctlpar\s1\li-15\sa185\sl252\slmult1\tqc\tx2190\b\f0\fs29 6.\f3  \tab\f0 Running the Application \par
+
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlblt\pnf6\pnindent0{\pntxtb\'B7}}\fi-233\li233\sa177\sl252\slmult1\fs24 Frontend:\b0\f1\fs22  \par
+
+\pard\widctlpar\fi233\li-1\ri7673\sa78\sl324\slmult1\fs24\par
+cdcliet  \par
+ npmstar\par
+\b\f0 Backend:\b0\f1\fs22\par
+
+\pard\widctlpar\fi-10\li257\ri7392\sa219\sl252\slmult1\fs24 cd server npm start\fs22  \par
+
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlblt\pnf6\pnindent0{\pntxtb\'B7}}\fi-233\li233\sa59\sl252\slmult1\b\f0\fs24 Access: \b0  {\cf0{\field{\*\fldinst{HYPERLINK http://localhost:3000 }}{\fldrslt{http://localhost:3000\ul0\cf0}}}}\f1\fs22\par
+
+\pard\keep\keepn\widctlpar\s1\li-15\sa185\sl252\slmult1\tqc\tx1872\b\f0\fs29 7.\f3  \tab\f0 API Documentation \par
+
+\pard 
+{\listtext\f1\u10625?\tab}\ls7\fi-233\li233\sa210\sl252\slmult1\fs24 User:\b0\f1\fs22  \par
+
+\pard 
+{\listtext\f1\u10625?\tab}\ls7\ilvl1\fi-444\li1454\sa115\sl264\slmult1\f0\fs24 /api/user/register\f1\fs22  \par
+
+\pard 
+{\listtext\f1\u10625?\tab}\ls7\ilvl1\fi-444\li1454\sa230\sl264\slmult1\f0\fs24 /api/user/login\f1\fs22  \par
+
+\pard 
+{\listtext\f1\u10625?\tab}\ls7\fi-233\li233\sa210\sl252\slmult1\b\f0\fs24 Projects:\b0\f1\fs22  \par
+
+\pard 
+{\listtext\f1\u10625?\tab}\ls7\ilvl1\fi-444\li1454\sa110\sl264\slmult1\f0\fs24 /api/projects/create\f1\fs22  \par
+
+\pard 
+{\listtext\f1\u10625?\tab}\ls7\ilvl1\fi-444\li1454\sa247\sl252\slmult1\f0\fs24 /api/projects/:id \f5\bullet\f1  \b\f0 Applications: \b0 /api/apply\f1\fs22  \par
+
+\pard 
+{\listtext\f1\u10625?\tab}\ls7\fi-233\li233\sa210\sl252\slmult1\b\f0\fs24 Chats:\b0\f1\fs22  \par
+
+\pard 
+{\listtext\f1\u10625?\tab}\ls7\ilvl1\fi-444\li1454\sa395\sl348\slmult1\f0\fs24 /api/chat/send\f1\fs22  \b\f0\fs24\endash\f3  \tab\b0\f0 /api/chat/:userId\f1\fs22  \par
+
+\pard\keep\keepn\widctlpar\s1\li-15\sa185\sl252\slmult1\tqc\tx1568\b\f0\fs29 8.\f3  \tab\f0 Authentication \par
+
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlblt\pnf6\pnindent0{\pntxtb\'B7}}\fi-233\li233\sa230\sl264\slmult1\b0\fs24 JWT-based authentication for secure login\f1\fs22  \par
+
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlblt\pnf6\pnindent0{\pntxtb\'B7}}\fi-233\li233\sa510\sl264\slmult1\f0\fs24 Middleware protects private routes\f1\fs22  \par
+
+\pard\keep\keepn\widctlpar\s1\li-15\sa185\sl252\slmult1\tqc\tx1517\b\f0\fs29 9.\f3  \tab\f0 User Interface \par
+
+\pard\widctlpar\sa230\sl264\slmult1\b0\fs24 Dashboard (Sales & Inventory Overview)\par
+\par
+Product Management Page\par
+\par
+Customer Management Page\par
+\par
+Reports Page\f1\fs22\par
+
+\pard\keep\keepn\widctlpar\s1\li-15\sa185\sl252\slmult1\tqc\tx1220\b\f0\fs29 10.\f3  \tab\f0 Testing \par
+
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlblt\pnf6\pnindent0{\pntxtb\'B7}}\fi-233\li233\sa230\sl264\slmult1\b0\fs24 Manual testing for major modules.\par
+
+\pard\widctlpar\sa230\sl264\slmult1\par
+
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlblt\pnf6\pnindent0{\pntxtb\'B7}}\fi-233\li233\sa230\sl264\slmult1 Debugging via Chrome Dev Tools & Postman API tests.\f1\fs22\par
+
+\pard 
+{\pntext\f1 11.\tab}{\*\pn\pnlvlbody\pnf1\pnindent0\pnstart11\pndec{\pntxta.}}
+\fi-734\li734\sa264\sl252\slmult1\b\f0\fs29 Screenshots or Demo \b0\f1\fs22\par
+
+\pard 
+{\pntext\f1 12.\tab}{\*\pn\pnlvlbody\pnf1\pnindent0\pnstart11\pndec{\pntxta.}}
+\fi-734\li734\sa241\sl252\slmult1\b\f0\fs29 Known Issues \b0\f1\fs22\par
+
+\pard\widctlpar\sa241\sl252\slmult1\b\f0\fs29 Inventory update delay on high traffic.\par
+\par
+Report export limited to PDF.\b0\f1\fs22\par
+
+\pard\keep\keepn\widctlpar\s1\li-15\sa185\sl252\slmult1\tqc\tx2192\b\f0\fs29 13.\f3  \tab\f0 Future Enhancements \par
+Multi-store support.\par
+\par
+Barcode scanner integration.\par
+\par
+Mobile application for store staff.\par
+\par
+AI-based sales prediction reports\par
+
+\pard\sa200\sl276\slmult1\cf0\kerning0\b0\f5\fs22\lang9\par
+\par
+}
+ 
